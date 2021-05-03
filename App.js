@@ -77,9 +77,7 @@ const Trapezoid = () => {
 
 
 
-const Circle = () => {
-  return <View style={styles.triangleDown} />;
-};
+
 
 const styles = StyleSheet.create({
   container: {
